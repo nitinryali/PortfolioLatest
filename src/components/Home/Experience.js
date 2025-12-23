@@ -1,6 +1,6 @@
 import { Container } from "react-bootstrap";
-import Phenom_logo from "../../src/Assets/Phenom_logo.png";
-import Nptel_logo from "../../src/Assets/nptel_logo.png";
+import Phenom_logo from "../../../src/Assets/Phenom_logo.png";
+import Nptel_logo from "../../../src/Assets/nptel_logo.png";
 
 function Experience() {
       const experiences = [
