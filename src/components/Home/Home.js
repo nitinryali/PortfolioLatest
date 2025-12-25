@@ -5,6 +5,7 @@ import Experience from "./Experience";
 import Education from "./Education";
 import SocialBoard from "./SocialBoard";
 import HomeInfoPage from "./HomeInfoPage";
+import Techstack from "./Techstack";
 
 function Home() {
   return (
@@ -14,9 +15,10 @@ function Home() {
         <HomeInfoPage />
       </Container>
       <Home2 />
-      <Experience/>
-      <Education/>
-      <SocialBoard/>
+      <Experience />
+      <Techstack />
+      <Education />
+      <SocialBoard />
     </section>
   );
 }
