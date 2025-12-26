@@ -442,6 +442,18 @@ button:focus {
   height: 100% !important;
 }
 
+.project-card-view p,
+.project-card-view .card-text,
+.project-card-view .card-body {
+  color: #ffffff !important;
+  opacity: 1 !important;
+  display: block !important;
+  max-height: none !important;
+  overflow: visible !important;
+  line-height: 1.45 !important;
+}
+
+
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
